@@ -6,7 +6,6 @@ import web.models.User;
 
 import javax.persistence.*;
 import javax.persistence.PersistenceContext;
-import javax.transaction.Transactional;
 import java.util.List;
 
 @Repository
